@@ -1,0 +1,60 @@
+package com.youli.zbetuch.adapter;
+
+import android.content.Context;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
+import android.widget.TextView;
+
+import com.youli.zbetuch.R;
+
+import java.util.List;
+
+
+public class SpinnerAdapter extends ArrayAdapter<String> {
+
+    private Context mContext;
+    private List<String> stringList;
+
+
+    public SpinnerAdapter(Context context, List<String> list) {
+        super(context, android.R.layout.simple_spinner_item, list);
+        mContext = context;
+        stringList = list;
+    }
+
+    @Override
+    public View getDropDownView(int position, View convertView, ViewGroup parent) {
+        //修改Spinner展开后的字体颜色
+        if (convertView == null) {
+            LayoutInflater inflater = LayoutInflater.from(mContext);
+            convertView = inflater.inflate(R.layout.mysimple_spinner_dropdown_item, parent, false);
+        }
+
+        //此处text1是Spinner默认的用来显示文字的TextView
+        TextView tv = (TextView) convertView.findViewById(android.R.id.text1);
+        tv.setText(stringList.get(position));
+        tv.setTextSize(18f);
+        tv.setGravity(View.TEXT_ALIGNMENT_CENTER);
+
+        return convertView;
+
+    }
+
+    @Override
+    public View getView(int position, View convertView, ViewGroup parent) {
+        if (convertView == null) {
+            LayoutInflater inflater = LayoutInflater.from(mContext);
+            convertView = inflater.inflate(android.R.layout.simple_spinner_item, parent, false);
+        }
+
+        //此处text1是Spinner默认的用来显示文字的TextView
+        TextView tv = (TextView) convertView.findViewById(android.R.id.text1);
+        tv.setText(stringList.get(position));
+        tv.setGravity(View.TEXT_ALIGNMENT_CENTER);
+        tv.setTextSize(18f);
+        return convertView;
+    }
+
+}

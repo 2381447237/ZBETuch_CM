@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_f8e4fb310387a5da7c36b34e5a63979b41d3471c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liutao\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_e0cc44ff346ff45547a91d613dc60fb4fa58c41d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_75b7a3e30ea10a2f9a37338e5555a43ae3c3c6ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liutao\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.1\4d060ca3190df0eda4dc13415532a12e15ca5f11\okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\pre-dexed\debug\okhttp-3.8.1_479a74eab674490b09648e2913f2a51d7612ebba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_f3c6a3deccc1504a8bc2d48bc92d42b91783b40e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\exploded-aar\com.zhy\percent-support-extends\1.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29ff8e178d6ef33c8673f430651500068642f833">
+        <dex dex="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\pre-dexed\debug\com.zhy-percent-support-extends-1.1.1_d1d1e6c702f927b1aa30c915fdd338f03b95bf11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liutao\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\pre-dexed\debug\okio-1.13.0_292d047454d34e9c8615c009510de8990622a434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fdb2999a05364a8f66f4985624e18e949427d4ee">
+        <dex dex="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\pre-dexed\debug\com.zhy-okhttputils-2.0.0_5b71b538323be098c2ddb96752d7c7d3a3414c76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_3e6157b8edb9fcbcd011ccd1ab80a328f77d5861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\exploded-aar\com.github.zhaokaiqiang.klog\library\1.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="beb952d2afcbaa163aecd988a37d1e6fcf478b3a">
+        <dex dex="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\pre-dexed\debug\com.github.zhaokaiqiang.klog-library-1.6.0_53e9df2fae1ff292bdbe2c95b0e8a090d7eabc73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liutao\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\pre-dexed\debug\gson-2.6.2_709f1548143598e445dd770ac39571f423e40742.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\e\studioSDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_027b8efa2f1d3935a0216fd22ae1216cb0be8f7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_4b7a633ae8e7da0fcbf3abf17edb7b3779684ea1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\android\e\asworkspace\ZBETuch_chongming\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.0_b733630def355bbe8bb865ec455e7f1fbe735b80.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.android.percent.support.PercentRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bj">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="-60dp"
+        android:layout_marginLeft="40dp"
+        android:background="@drawable/bjt"
+        android:scaleX="1.1"
+        android:scaleY="1.1"
+        app:layout_heightPercent="150%h"
+        app:layout_widthPercent="100%w" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/dl_title" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true">
+
+        <LinearLayout
+            android:id="@+id/ll_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true">
+
+            <EditText
+                android:id="@+id/name_et"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/yhm"
+                android:paddingLeft="38dp"
+                android:paddingTop="10dp"
+                android:singleLine="true"
+                android:textColor="#000000"
+                app:layout_heightPercent="14%h"
+                app:layout_widthPercent="24%w" />
+
+            <EditText
+                android:id="@+id/password_et"
+                android:layout_width="262dp"
+                android:layout_height="73dp"
+                android:background="@drawable/mm"
+                android:inputType="textPassword"
+                android:paddingLeft="38dp"
+                android:paddingTop="10dp"
+                android:singleLine="true"
+                android:textColor="#000000"
+                app:layout_heightPercent="14%h"
+                app:layout_widthPercent="24%w" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/login_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/ll_login"
+            android:layout_toRightOf="@id/ll_login"
+            android:background="@drawable/login_selector"
+            app:layout_heightPercent="10%h"
+            app:layout_widthPercent="14%w" />
+    </RelativeLayout>
+
+</com.zhy.android.percent.support.PercentRelativeLayout>

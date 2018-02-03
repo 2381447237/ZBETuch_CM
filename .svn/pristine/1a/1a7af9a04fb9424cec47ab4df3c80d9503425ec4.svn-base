@@ -1,0 +1,87 @@
+package com.youli.zbetuch.adapter;
+
+import android.content.Context;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.BaseAdapter;
+import android.widget.TextView;
+
+import com.youli.zbetuch.R;
+import com.youli.zbetuch.bean.JobBean;
+
+import java.util.List;
+
+
+public class JobInformationAdapter extends BaseAdapter {
+
+
+    private List<JobBean> jobBeanList;
+    Context mContext;
+
+    public JobInformationAdapter(Context context, List<JobBean> beanList) {
+        this.mContext = context;
+        this.jobBeanList = beanList;
+    }
+
+    public void updateView(List<JobBean> list) {
+        this.jobBeanList = list;
+        this.notifyDataSetChanged();
+    }
+
+    @Override
+    public int getCount() {
+        return jobBeanList.size();
+    }
+
+    @Override
+    public Object getItem(int i) {
+        return jobBeanList.get(i);
+    }
+
+    @Override
+    public long getItemId(int i) {
+        return i;
+    }
+
+    @Override
+    public View getView(int i, View view, ViewGroup viewGroup) {
+        ViewHolder mHolder;
+        JobBean jobBean = jobBeanList.get(i);
+        if (view == null) {
+            mHolder = new ViewHolder();
+            view = LayoutInflater.from(mContext).inflate(R.layout.main_pager_job_information_item_layout, null);
+            mHolder.jobInfo_id = (TextView) view.findViewById(R.id.tv_job_id);
+            mHolder.jobInfo_title = (TextView) view.findViewById(R.id.tv_job_title);
+            mHolder.jobInfo_address = (TextView) view.findViewById(R.id.tv_job_address);
+            mHolder.jobInfo_time = (TextView) view.findViewById(R.id.tv_job_time);
+            view.setTag(mHolder);
+        } else {
+            mHolder = (ViewHolder) view.getTag();
+        }
+        mHolder.jobInfo_id.setText(jobBean.getJobId() + "");
+        mHolder.jobInfo_title.setText(jobBean.getJobTitle());
+        mHolder.jobInfo_address.setText(jobBean.getJobAddress());
+        mHolder.jobInfo_time.setText(jobBean.getJobTime());
+
+        if (i % 2 == 0) {
+            view.setBackgroundResource(R.drawable.selector_questionnaire_click_white);
+
+        } else {
+            view.setBackgroundResource(R.drawable.selector_questionnaire_click_blue);
+
+        }
+
+        return view;
+    }
+
+    class ViewHolder {
+        TextView jobInfo_id;
+        TextView jobInfo_title;
+        TextView jobInfo_address;
+        TextView jobInfo_time;
+    }
+
+}
+
+

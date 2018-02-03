@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff">
+
+    <RelativeLayout
+        android:id="@+id/rl_title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#0033CC">
+
+        <RadioGroup
+            android:visibility="gone"
+            android:id="@+id/rg_check"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_centerVertical="true">
+
+            <RadioButton
+                android:padding="5dp"
+                android:id="@+id/rb_unchecked"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginRight="10dp"
+                android:button="@null"
+                android:text="未查"
+                android:textSize="22dp"/>
+
+            <RadioButton
+                android:padding="5dp"
+                android:id="@+id/rb_checked"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/shape_radio_button"
+                android:button="@null"
+                android:text="已查"
+                android:textSize="22dp"
+                />
+
+        </RadioGroup>
+
+
+        <TextView
+            android:textColor="#ffffff"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="个人信息列表"
+            android:textSize="30sp"/>
+
+        <LinearLayout
+            android:id="@+id/ll_num"
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true">
+            <!--4人-->
+            <TextView
+                android:textColor="#ffffff"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="共有"
+                android:textSize="18sp"/>
+
+            <TextView
+                android:textColor="#ffffff"
+                android:id="@+id/tv_all_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text=" "
+                android:textSize="18sp"/>
+
+            <TextView
+                android:textColor="#ffffff"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="人"
+                android:textSize="18sp"/>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/iv_choice"
+            android:padding="15dp"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/choice"/>
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorPrimary"/>
+
+    <include
+        layout="@layout/personal_info_list_item"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.8"/>
+
+
+        <com.youli.zbetuch.view.XListView
+            android:id="@+id/lv_personal_info"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="9"
+            >
+        </com.youli.zbetuch.view.XListView>
+
+
+    <TextView
+        android:id="@+id/tv_no_datas"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9"
+        android:gravity="center"
+        android:text="暂无数据"
+        android:textSize="30dp"
+        android:visibility="gone"/>
+</LinearLayout>

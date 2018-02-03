@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bjt.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\bjt.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dl_title.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\dl_title.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\more.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\more.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_focused_holo.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\firstpage_listtitlebackground1.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\firstpage_listtitlebackground1.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dj.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\dj.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\firstpage_adminbackground2.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\firstpage_adminbackground2.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\research_title.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\research_title.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\choice.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\choice.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_full_open_on_phone.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\yhm.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\yhm.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\mm.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\mm.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\firstpage_btnmainimage.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\firstpage_btnmainimage.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\firstpage_adminbackground1.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\firstpage_adminbackground1.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bj.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\bj.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\firstpage_listdocground1.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\firstpage_listdocground1.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\firstpage_docbackground1.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\firstpage_docbackground1.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\research_no_title.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\research_no_title.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\invitedetailcontentback.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\invitedetailcontentback.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\firstpage_titlebackgroud1.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\firstpage_titlebackgroud1.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dl.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\dl.png"
+    },
+    {
+        "merged": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\firstpage_btnmainimage_after.png",
+        "source": "D:\\android\\e\\asworkspace\\ZBETuch_chongming\\app\\src\\main\\res\\drawable-mdpi\\firstpage_btnmainimage_after.png"
+    }
+]

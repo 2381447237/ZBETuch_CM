@@ -1,0 +1,112 @@
+package com.youli.zbetuch.activity;
+
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.View;
+import android.view.Window;
+import android.widget.Button;
+import android.widget.GridView;
+import android.widget.LinearLayout;
+import android.widget.ListView;
+import android.widget.SearchView;
+import android.widget.TextView;
+
+import com.youli.zbetuch.BaseActivity;
+import com.youli.zbetuch.R;
+import com.youli.zbetuch.adapter.MainPagerGvAdapter;
+import com.youli.zbetuch.bean.MainPagerGvInfo;
+
+import java.util.ArrayList;
+import java.util.List;
+
+
+public class MainPagerActivity extends BaseActivity implements View.OnClickListener {
+
+    private String titleGv []={"会议通知","工作通知","岗位信息","近期热点"};
+    private TextView tv_functionList;
+    private LinearLayout ll_functionList;
+    private Button btn_main_pager;
+   private GridView gv;
+   private List<MainPagerGvInfo> gvData=new ArrayList<>();
+    private List<MainPagerGvInfo.MainPagerLvInfo> lvData1=new ArrayList<>();
+    private List<MainPagerGvInfo.MainPagerLvInfo> lvData2=new ArrayList<>();
+    private List<MainPagerGvInfo.MainPagerLvInfo> lvData3=new ArrayList<>();
+    private List<MainPagerGvInfo.MainPagerLvInfo> lvData4=new ArrayList<>();
+    private MainPagerGvAdapter gvAdapter;
+
+
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        requestWindowFeature(Window.FEATURE_NO_TITLE);
+        setContentView(R.layout.main_pager_layout);
+        initView();
+
+    }
+
+    private void initView() {
+        tv_functionList = (TextView) findViewById(R.id.tv_function_list);
+        ll_functionList= (LinearLayout) findViewById(R.id.ll_function_list);
+
+        ll_functionList.setOnClickListener(this);
+        btn_main_pager= (Button) findViewById(R.id.btn_main_pager);
+        btn_main_pager.setOnClickListener(this);
+       gv= (GridView) findViewById(R.id.main_pager_gv);
+
+        setLvData();
+        setGvData();
+
+        gvAdapter=new MainPagerGvAdapter(this,gvData);
+
+        gv.setAdapter(gvAdapter);
+
+    }
+
+
+    private void setLvData() {
+
+        for(int i=1;i<4;i++){
+            lvData1.add(new MainPagerGvInfo.MainPagerLvInfo(titleGv[0]+i,"2017-01-0"+i));
+            lvData2.add(new MainPagerGvInfo.MainPagerLvInfo(titleGv[1]+i,"2017-01-0"+i));
+            lvData3.add(new MainPagerGvInfo.MainPagerLvInfo(titleGv[2]+i,"2017-01-0"+i));
+            lvData4.add(new MainPagerGvInfo.MainPagerLvInfo(titleGv[3]+i,"2017-01-0"+i));
+        }
+
+    }
+
+
+
+    private void setGvData(){
+
+        for(int i=0;i<titleGv.length;i++){
+            if(i==0){
+                gvData.add(new MainPagerGvInfo(lvData1,titleGv[i]));
+            }else if(i==1){
+                gvData.add(new MainPagerGvInfo(lvData2,titleGv[i]));
+            }else if(i==2){
+                gvData.add(new MainPagerGvInfo(lvData3,titleGv[i]));
+            }else{
+                gvData.add(new MainPagerGvInfo(lvData4,titleGv[i]));
+            }
+
+        }
+
+    }
+
+    //点击事件
+    @Override
+    public void onClick(View view) {
+        Intent intent = new Intent(this,FunctionListActivity.class);
+        switch (view.getId()){
+            case R.id.ll_function_list:
+
+                startActivity(intent);
+                break;
+            case R.id.btn_main_pager:
+
+                startActivity(intent);
+                break;
+        }
+    }
+}

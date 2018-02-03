@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="3dp"
+    >
+
+    <RelativeLayout
+        android:padding="3dp"
+        android:background="@drawable/firstpage_listtitlebackground1"
+        android:id="@+id/item_gv_title_rl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <TextView
+        android:textSize="21sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_gv_title_tv"
+        android:text="标题"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:textSize="17sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_gv_more_tv"
+        android:text="更多>>"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"/>
+    </RelativeLayout>
+
+
+
+        <com.youli.zbetuch.view.MyListView
+            android:layout_below="@id/item_gv_title_rl"
+            android:background="@drawable/firstpage_listdocground1"
+            android:cacheColorHint="@android:color/transparent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/item_gv_lv"></com.youli.zbetuch.view.MyListView>
+
+</RelativeLayout>

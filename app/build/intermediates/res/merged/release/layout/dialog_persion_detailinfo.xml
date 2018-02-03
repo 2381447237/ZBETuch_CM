@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.5"
+            android:gravity="center"
+            android:text="个人详细信息"
+            android:textSize="30dp"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_weight="8"
+        android:orientation="vertical">
+        <!--编号区县-->
+        <LinearLayout
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="#aaaaff">
+            <!--编号-->
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <TextView
+                    style="@style/personal_info_tv_style"
+                    android:text="编号:"/>
+
+                <TextView
+                    style="@style/personal_info_tv_style"
+                    android:text="080081"/>
+            </LinearLayout>
+            <!--区县-->
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <TextView
+                    style="@style/personal_info_tv_style"
+                    android:text="区县:"
+                    />
+
+                <TextView
+                    style="@style/personal_info_tv_style"
+                    android:text="闸北"/>
+            </LinearLayout>
+        </LinearLayout>
+        <!--PID-->
+        <LinearLayout
+            android:visibility="gone"
+            style="@style/personal_info_ll_style"
+            >
+
+            <TextView
+                style="@style/personal_info_tv_style"
+                android:text="PID:"/>
+
+            <TextView
+                style="@style/personal_info_tv_style"
+                android:text="232332423423423"/>
+        </LinearLayout>
+        <!--姓名性别-->
+        <LinearLayout
+            style="@style/personal_info_ll_style"
+            android:background="#c9e1f9">
+
+            <!--姓名-->
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <TextView
+                    style="@style/personal_info_tv_style"
+                    android:text="姓名:"/>
+
+                <TextView
+                    android:id="@+id/dialog_persion_tv_name"
+                    style="@style/personal_info_tv_style"
+                    />
+            </LinearLayout>
+            <!--性别-->
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <TextView
+                    style="@style/personal_info_tv_style"
+                    android:text="性别:"/>
+
+                <TextView
+                    android:id="@+id/dialog_persion_tv_sex"
+                    style="@style/personal_info_tv_style"
+                    />
+            </LinearLayout>
+
+        </LinearLayout>
+        <!--身份证-->
+        <LinearLayout
+            style="@style/personal_info_ll_style"
+          >
+
+
+            <TextView
+                style="@style/personal_info_tv_style"
+                android:text="身份证:"/>
+
+            <TextView
+                android:id="@+id/dialog_persion_tv_identity"
+                style="@style/personal_info_tv_style"
+                />
+        </LinearLayout>
+        <!--学历-->
+        <LinearLayout
+            android:visibility="gone"
+            style="@style/personal_info_ll_style"
+            android:background="#aaaaff">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <TextView
+                    style="@style/personal_info_tv_style"
+                    android:text="学历:"/>
+
+                <TextView
+                    style="@style/personal_info_tv_style"
+                    android:text="专科"/>
+            </LinearLayout>
+            <!--就业状态-->
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <TextView
+                    style="@style/personal_info_tv_style"
+                    android:text="就业状态:"/>
+
+                <TextView
+                    style="@style/personal_info_tv_style"
+                    android:text="无业"/>
+            </LinearLayout>
+        </LinearLayout>
+        <!--户籍所在区县-->
+        <LinearLayout
+            android:visibility="gone"
+            style="@style/personal_info_ll_style"
+            >
+
+            <TextView
+                style="@style/personal_info_tv_style"
+                android:text="户籍所在区县:"/>
+
+            <TextView
+                style="@style/personal_info_tv_style"
+                android:text="闸北"/>
+        </LinearLayout>
+        <!--户籍所在街道-->
+        <LinearLayout
+            style="@style/personal_info_ll_style"
+            android:background="#c9e1f9">
+
+            <TextView
+                style="@style/personal_info_tv_style"
+                android:text="户籍所在街道:"/>
+
+            <TextView
+                android:id="@+id/dialog_persion_tv_town"
+                style="@style/personal_info_tv_style"
+                />
+        </LinearLayout>
+        <!--户籍所在居委-->
+        <LinearLayout
+            style="@style/personal_info_ll_style"
+           >
+
+            <TextView
+                style="@style/personal_info_tv_style"
+                android:text="户籍所在居委:"/>
+
+            <TextView
+                android:id="@+id/dialog_persion_tv_village"
+                style="@style/personal_info_tv_style"
+                />
+        </LinearLayout>
+        <!--联系地址-->
+        <LinearLayout
+            style="@style/personal_info_ll_style"
+            android:background="#c9e1f9">
+
+            <TextView
+                style="@style/personal_info_tv_style"
+                android:text="联系地址:"/>
+
+            <TextView
+                android:id="@+id/dialog_persion_tv_address"
+                style="@style/personal_info_tv_style"
+                />
+        </LinearLayout>
+        <!--联系方式-->
+        <LinearLayout
+            style="@style/personal_info_ll_style"
+            >
+
+            <TextView
+                style="@style/personal_info_tv_style"
+                android:text="联系电话:"/>
+
+            <TextView
+                android:id="@+id/dialog_persion_tv_phone"
+                style="@style/personal_info_tv_style"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        >
+
+        <Button
+            android:padding="8dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/button_selector"
+            android:id="@+id/btn_start_research"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="点击调查"
+            />
+
+        <Button
+            android:visibility="gone"
+            android:padding="8dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/button_selector"
+            android:id="@+id/btn_research_history"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="历史问卷"
+            />
+    </LinearLayout>
+
+
+</LinearLayout>

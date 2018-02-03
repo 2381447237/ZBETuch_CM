@@ -1,0 +1,41 @@
+package com.youli.zbetuch.bean;
+
+
+public class JobBean {
+    private int jobId;
+    private String jobTitle;
+    private String jobAddress;
+    private String jobTime;
+
+    public int getJobId() {
+        return jobId;
+    }
+
+    public void setJobId(int jobId) {
+        this.jobId = jobId;
+    }
+
+    public String getJobTitle() {
+        return jobTitle;
+    }
+
+    public void setJobTitle(String jobTitle) {
+        this.jobTitle = jobTitle;
+    }
+
+    public String getJobAddress() {
+        return jobAddress;
+    }
+
+    public void setJobAddress(String jobAddress) {
+        this.jobAddress = jobAddress;
+    }
+
+    public String getJobTime() {
+        return jobTime;
+    }
+
+    public void setJobTime(String jobTime) {
+        this.jobTime = jobTime;
+    }
+}

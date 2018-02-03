@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:padding="10dp"
+        android:paddingLeft="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+    <TextView
+        android:id="@+id/tv_person_info_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.5"
+        android:gravity="center"
+        android:text="姓名"
+        android:textSize="24dp"/>
+
+    <TextView
+        android:id="@+id/tv_person_info_sex"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.5"
+        android:gravity="center"
+        android:text="性别"
+        android:textSize="24dp"/>
+
+    <TextView
+        android:id="@+id/tv_person_info_village"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.5"
+        android:gravity="center"
+        android:text="街镇"
+        android:textSize="24dp"/>
+
+    <TextView
+        android:id="@+id/tv_person_info_town"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:text="村居"
+        android:textSize="24dp"/>
+
+    <TextView
+        android:id="@+id/tv_person_info_address"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:text="户籍地址"
+        android:textSize="24dp"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#A9C6C9"/>
+
+</LinearLayout>

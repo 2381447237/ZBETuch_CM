@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:background="@drawable/firstpage_docbackground1"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!--android:background="@drawable/bj"-->
+
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="60dp"
+       android:background="@drawable/firstpage_titlebackgroud1">
+
+    <TextView
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="25dp"
+        android:text="就业保障E本通信息服务系统V2.0"
+        android:textSize="30sp"
+        android:textColor="#ffffff"
+        />
+
+       <Button
+           android:layout_marginRight="10dp"
+           android:id="@+id/btn_main_pager"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:background="@drawable/selector_main_pager"
+           android:layout_alignParentRight="true"/>
+
+   </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:orientation="vertical"
+        android:paddingTop="15dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+      >
+
+        <LinearLayout
+            android:layout_marginBottom="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@drawable/firstpage_adminbackground2">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_gravity="center"
+            android:layout_weight="6"
+            android:src="@drawable/admin9999" />
+<LinearLayout
+    android:background="@drawable/shape_name_ll"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="1"
+    android:gravity="center"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:layout_marginBottom="30dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="admin"
+            android:textSize="23sp" />
+</LinearLayout>
+            <LinearLayout
+                android:id="@+id/ll_function_list"
+                android:background="@drawable/shape_name_ll"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="3"
+                android:gravity="center"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="25dp"
+                android:layout_marginTop="5dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginTop="5dp"
+                    android:gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/more"/>
+
+        <TextView
+            android:textSize="23sp"
+            android:id="@+id/tv_function_list"
+            android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="更多信息" />
+            </LinearLayout>
+    </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:paddingTop="10dp"
+        android:paddingRight="15dp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="6"
+        android:orientation="vertical">
+        <GridView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/main_pager_gv"
+            android:numColumns="2"
+         ></GridView>
+
+
+    </LinearLayout>
+        
+
+    </LinearLayout>
+
+</LinearLayout>
